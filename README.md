@@ -1,4 +1,5 @@
-# Capstone-Project
+# Chopsticks
+2023-1 아주대학교 소프트웨어 캡스톤디자인 '헤어해죠~' 플랫폼을 제작한 11조 Chopsticks 입니다.
 
 ## 팀원
 - 201720704 박수길
