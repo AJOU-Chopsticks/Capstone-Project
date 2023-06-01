@@ -73,17 +73,15 @@
 3. 헤어 디자이너의 CRMS는 고객들의 최근 방문 날짜, 방문 횟수를 확인할 수 있으며 특정 고객에 대한 메모를 적고 확인 할 수 있습니다. 또한 월 별, 성별 별, 연령대 별, 메뉴 별, 기존/신규 고객 별 매출을 막대 그래프, 선형 그래프, 원형 그래프로 매출 통계를 확인 할 수 있습니다.   
 
 
-## 기술 스택
+## System Architecture
+
+![image](https://github.com/AJOU-Chopsticks/Capstone-Project/assets/112956878/ebd67b6b-b37b-4326-aec7-0da2052ea0a8)
+
 
 -DevOps: github, github action
 
 
 -Buiness Tools: notion, google drive
-
-## System Architecture
-
-![image](https://github.com/AJOU-Chopsticks/Capstone-Project/assets/112956878/ebd67b6b-b37b-4326-aec7-0da2052ea0a8)
-
 
 |컴포넌트|역할|
 |------|-----|
