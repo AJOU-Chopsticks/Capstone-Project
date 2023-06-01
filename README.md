@@ -8,6 +8,39 @@
 - 201920772 홍건화 -back
 - 201820797 이성규 -back
 
+## 업무 분장
+### 개발분야 업무 분장
+박수길: database 서버를 관리하거나 세팅하고 각 UI mockup을 검토한다.
+
+
+목대희: frontend 버전을 확인하고 새 github 프로젝트를 생성한다. 
+
+
+홍건화: backend 버전을 관리하고 intellij 환경을 구축한다.
+
+
+오원석: frontend에 관련한 react js를 설치하고 버전을 관리한다.
+
+
+이성규: backend 버전을 확인하고 각 UI의 연결점을 체크한다.
+
+
+### 비 개발분야 업무 분장
+
+박수길: 프로젝트 계획을 관리하고 팀원 및 멘토와의 일정을 조율한다.
+
+
+목대희: PPT발표자료를 관리하고, 예산을 관리한다.
+
+
+홍건화: 제출물 문서를 관리하고 검토하며 시연 영상을 제작한다.
+
+
+오원석: 협업 도구를 구성하고 관리한다.
+
+
+이성규: 기술스택이 맞는지를 검토하고 회의록을 작성한다.
+
 
 ## Pain Point
 
@@ -46,5 +79,15 @@
 
 
 -Buiness Tools: notion, google drive
+
+## System Architecture
+
+![image](https://github.com/AJOU-Chopsticks/Capstone-Project/assets/112956878/ebd67b6b-b37b-4326-aec7-0da2052ea0a8)
+
+
+|컴포넌트|역할|
+|계정 관리 서비스|테스트2|
+|신청 글 관리 서비스|테스트2|
+
 
 
