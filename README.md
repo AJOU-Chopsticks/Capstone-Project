@@ -84,8 +84,8 @@
 
 ![image](https://github.com/AJOU-Chopsticks/Capstone-Project/assets/112956878/ebd67b6b-b37b-4326-aec7-0da2052ea0a8)
 
-
 |컴포넌트|역할|
+|------|-----|
 |계정 관리 서비스|테스트2|
 |신청 글 관리 서비스|테스트2|
 
